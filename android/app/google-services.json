@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28230729424",
+    "project_id": "offmind-chat",
+    "storage_bucket": "offmind-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28230729424:android:5ab328ae71c2f68bcb28d5",
+        "android_client_info": {
+          "package_name": "com.chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQwsk_KbPfBisbQFP7TVl8pB8A1Yi1uv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
