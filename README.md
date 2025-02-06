@@ -59,4 +59,4 @@ OffMind is currently developed by Omar Shemais as the flutter Devolper and the O
 
 License
 
-This project is for educational and research purposes
+This project is for Graduaction
