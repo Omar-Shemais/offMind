@@ -55,7 +55,7 @@ Usage
 
 Contributing
 
-OffMind is currently developed by [Your Name] and the OffMind Team. If you’re interested in contributing, feel free to submit issues or pull requests.
+OffMind is currently developed by Omar Shemais as the flutter Devolper and the OffMind Team. If you’re interested in contributing, feel free to submit issues or pull requests.
 
 License
 
