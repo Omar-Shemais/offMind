@@ -9,10 +9,15 @@ OffMind is a Flutter-based mobile application that utilizes AI and fMRI X-ray da
 Features
 
 ✅ AI-driven ADHD diagnosis using fMRI X-ray and user-provided information
+
 ✅ Find and connect with doctors specialized in ADHD treatment
+
 ✅ Chat with doctors and other users in a supportive community
+
 ✅ Track daily activities and mental health progress with built-in notes
+
 ✅ Play interactive games designed to aid cognitive development (coming soon)
+
 
 Tech Stack
 
